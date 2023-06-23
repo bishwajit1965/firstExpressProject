@@ -1,0 +1,21 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Express project",
+  "main": "index.js",
+  "scripts": {
+    "test": "Y"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Y"
+  },
+  "keywords": [
+    "Y"
+  ],
+  "author": "Y",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
